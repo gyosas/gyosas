@@ -31,8 +31,8 @@
 </p>
 
 ## Statistics
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gyosas&color=black" alt="gyosas" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gyosas&show_icons=true" alt="gyosas" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/<gyosas>/?username=<gyosas>&theme=<https://github.com/gyosas>" />
+</p>
 
 ## Get in touch
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gyosas)](https://github.com/gyosas)
