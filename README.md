@@ -31,7 +31,7 @@
 </p>
 
 ## Statistics
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gyosas&color=orange" alt="gyosas" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gyosas&color=black" alt="gyosas" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gyosas&show_icons=true" alt="gyosas" /></p>
 
 ## Get in touch
