@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">  Welcome to my profile! :smiley: </h1>
-  <h2 align="center"> My name is José Oliveira, also known as gyosas, and I'm a Junior Fullstack Developer :smiley: </h2> 
+  <h2 align="center"> My name is José Oliveira, also known as gyosas, and I'm a Junior Fullstack Developer :blush: </h2> 
 </p>
 
 ## Get in touch
