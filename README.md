@@ -2,7 +2,7 @@
   <h1 align="center">  Welcome to my profile! :kissing_closed_eyes: </h1>
   <h2 align="center">  :satisfied: My name is José Oliveira, also known as gyosas, and I'm a Junior Fullstack Developer :satisfied: </h2> 
 </p>
-<br>
+
 ## Get in touch
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)](https://github.com/gyosas)
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)](https://www.linkedin.com/in/jos%C3%A9-oliveira-gyosas/)
