@@ -34,5 +34,5 @@
 <img align="center" alt="Gyosas Github Stats" src="https://github-readme-stats.vercel.app/api?username=gyosas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117"/>
 
 ## Get in touch
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gyosas)](https://github.com/gyosas)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-oliveira-gyosas/)](https://www.linkedin.com/in/jos%C3%A9-oliveira-gyosas/)
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)](https://github.com/gyosas)
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)](https://www.linkedin.com/in/jos%C3%A9-oliveira-gyosas/)
