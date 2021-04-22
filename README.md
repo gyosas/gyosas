@@ -1,6 +1,8 @@
 <p align="center">
   <h1 align="center">  Welcome to my profile! :smiley: </h1>
-  <h2 align="center"> My name is José Oliveira, also known as gyosas, and I'm a Junior Fullstack Developer :blush: </h2> 
+  <h2 align="center"> My name is José Oliveira, also known as gyosas, and I'm a Junior Fullstack Developer I'm extremely organized and motivated to constantly improve my code skills. I seek knowledge in order to grow professionally and personally.
+I am hardworking and a very good team player. As a former cook, I learned that an organized, motivated and united team is the key to success.
+I want an opportunity to prove that I’m a valuable asset to your team. :blush: </h2> 
 </p>
 
 ## Get in touch
