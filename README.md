@@ -22,6 +22,7 @@ I want an opportunity to prove that I’m a valuable asset to your team. :blush:
 <p align="left">
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/hibernate.png" alt="java" width="60" height="60"/>
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/spring.png" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/Tomcat-logo.svg" alt="nodejs" width="80" height="80"/>
 </p>
 
 #### Data
@@ -33,7 +34,6 @@ I want an opportunity to prove that I’m a valuable asset to your team. :blush:
 <p align="left">
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-<img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/Tomcat-logo.svg" alt="nodejs" width="80" height="80"/>
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/nodejs-original-wordmark.svg" alt="nodejs" width="85" height="85"/>
 </p>
 
