@@ -16,7 +16,6 @@ I want an opportunity to prove that I’m a valuable asset to your team. :blush:
 <p align="left">
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/java-original.svg" alt="java" width="75" height="75"/>
 <img src="https://github.com/josepfpinto/josepfpinto/blob/main/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://www.gratispng.com/png-sygpab/" alt="javascript" width="60" height="60"/>
 </p>
 
 #### Frameworks
